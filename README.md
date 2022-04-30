@@ -12,7 +12,7 @@
 
 ## Description
 
-In this project we had to refactor a fully functioning Google Books API built with a RESTful API and change it to a GraphQL API built with the Apollo Server. The App has originally been built with the MERN Stack React, MongoDB Nodejs and Expressjs.
+In this project we had to refactor a fully functioning Google Books API built with a `RESTful API` and change it to a `GraphQL API` built with the `Apollo Server`. The App has originally been built with the `MERN Stack React, MongoDB Nodejs and Expressjs`.
 
 1.  it has now been set up with an Apollo Server and uses GraphQL queries and mutations.
   
@@ -24,15 +24,15 @@ In this project we had to refactor a fully functioning Google Books API built wi
  
 5.  all works locally!
 
-Unsuccessful
+ Unsuccessful in Deploying:-
 
-1.  i was unable to set it up properly on Heroku seems to be a problem at the moment communicating with Github. will look to try again at a later date.
+1.  I was unable to set it up properly on Heroku seems to be a problem at the moment communicating with Github. will look to try again at a later date.
 
 
 ## Installation
 
 1. Clone or download the zip file to your computer.
-2. In your code editor open a terminal and ensure you are in the root folder and run Npm Install to install all the   dependebncies in server and client folder.
+2. In your code editor open a terminal and ensure you are in the root folder and run ` to install` all the   dependencies in server and client folder.
 3. run npm start and the book search will open in the browser.
 
 
@@ -44,13 +44,14 @@ You can sign up and log in from the navigation bar as well as utilise the search
 ## Contributing People and Resources
 
 This was a fully working API cloned from the course as homework to refactor to Apollo Server / GraphQL 
+
 Utilised the MERN week coursework and class videos to achieve many of the goals.
 
 David Davies
 
 ##  Repository Details and Link.
 
-Feel free to clone and play about with refactoring or seeing the differences between a RESTful API and a Apollo /GraphQL API
+Feel free to clone and play about with refactoring or seeing the differences between a `RESTful API and a Apollo /GraphQL API`
 
 
 ## License Link
